@@ -6,11 +6,12 @@ Welcome to Smart Payroll Solutions, your comprehensive partner for payroll proce
 
 - [About Us](#about-us)
 - [Services](#services)
-  - [Bitcoin Payroll Processing](#bitcoin-payroll-processing)
+  - [Cryptocurrency Payroll Processing](#cryptocurrency-payroll-processing)
   - [HR Management](#hr-management)
   - [Tax Compliance](#tax-compliance)
 - [Benefits](#benefits)
 - [How It Works](#how-it-works)
+  - [Verification Process](#verification-process)
 - [Contact Us](#contact-us)
 
 ## About Us
@@ -19,15 +20,14 @@ Smart Payroll Solutions is committed to providing top-notch payroll and HR servi
 
 ## Services
 
-### Bitcoin Payroll Processing
+### Cryptocurrency Payroll Processing
 
-Our Bitcoin payroll processing service is designed to meet the needs of businesses looking to pay employees in cryptocurrency. We handle:
+Our cryptocurrency payroll processing service is designed to meet the needs of businesses looking to pay employees and contractors in their preferred cryptocurrency. We support various cryptocurrencies, including Bitcoin, Ethereum, Solana, and more. We handle:
 
-- Payroll calculations in Bitcoin
-- Bitcoin direct deposits
-- Payroll reporting in both Bitcoin and fiat currencies
-- Employee self-service portals for Bitcoin transactions
-- 
+- Payroll calculations in the chosen cryptocurrency
+- Direct deposits to public wallets/addresses
+- Payroll reporting in both cryptocurrency and fiat currencies
+- Employee self-service portals for cryptocurrency transactions
 
 ### HR Management
 
@@ -62,6 +62,16 @@ Partnering with Smart Payroll Solutions provides numerous benefits, including:
 2. **Processing**: Our team handles payroll processing, tax calculations, and HR management tasks.
 3. **Reporting**: Receive detailed reports and access to our employee self-service portals.
 4. **Support**: Ongoing support to address any questions or concerns.
+
+### Verification Process
+
+To ensure the accuracy and security of cryptocurrency transactions, we implement a thorough verification process:
+
+1. **Wallet Verification**: Employees or contractors/payees provide their public wallet addresses, which are verified for accuracy.
+2. **Transaction Confirmation**: Once payroll is processed, transactions are initiated to the verified public wallet addresses.
+3. **Blockchain Confirmation**: We monitor the blockchain to confirm the successful transfer of funds.
+4. **Receipt Generation**: After confirmation, a receipt of the transaction is generated and provided to both the employer and the employee/contractor/payee.
+5. **Support**: Our support team is available to assist with any transaction-related queries or issues.
 
 ## Contact Us
 
