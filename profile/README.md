@@ -1,6 +1,6 @@
 # Smart Payroll Solutions
 
-Welcome to Smart Payroll Solutions, your comprehensive partner for payroll processing, HR management, and tax compliance. Our services are designed to meet the needs of small to mid-sized businesses, ensuring efficient and accurate payroll management.
+Welcome to Smart Payroll Solutions, your comprehensive partner for payroll processing, HR management, and tax compliance. Our services are designed to meet the needs of small to mid-sized businesses, ensuring efficient + accurate employee management and payroll solutions.
 
 ## Table of Contents
 
@@ -27,6 +27,7 @@ Our Bitcoin payroll processing service is designed to meet the needs of business
 - Bitcoin direct deposits
 - Payroll reporting in both Bitcoin and fiat currencies
 - Employee self-service portals for Bitcoin transactions
+- 
 
 ### HR Management
 
