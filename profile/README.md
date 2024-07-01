@@ -1,4 +1,3 @@
-# .github
 # Smart Payroll Solutions
 
 Welcome to Smart Payroll Solutions, your comprehensive partner for payroll processing, HR management, and tax compliance. Our services are designed to meet the needs of small to mid-sized businesses, ensuring efficient and accurate payroll management.
